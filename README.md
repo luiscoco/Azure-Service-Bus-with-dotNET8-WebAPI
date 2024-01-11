@@ -38,6 +38,12 @@ This is the topic we created
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/c5062bfe-469a-46a4-904c-16c99beacac0)
 
+We have to click on the topic link to see the subscriptions
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/0a626d65-7ce6-4c5e-a56d-c55ea038a5e5)
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/803c7e97-5ecf-4ee2-ac96-61890446039f)
+
 These are the two subscriptions
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/09a1cb2c-99c9-4f0f-b690-e9ec012dcf62)
