@@ -40,9 +40,9 @@ This is the topic we created
 
 We have to click on the topic link to see the subscriptions
 
-![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/0a626d65-7ce6-4c5e-a56d-c55ea038a5e5)
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/2ec88010-11ea-464b-8c4c-4aa7779f805d)
 
-![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/803c7e97-5ecf-4ee2-ac96-61890446039f)
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/3461679c-aaaf-4302-ba94-ac29c4e97c3c)
 
 These are the two subscriptions
 
