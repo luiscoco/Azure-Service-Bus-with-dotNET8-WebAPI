@@ -248,3 +248,4 @@ namespace AzureServiceBus.Controllers
 
 ## 6. Verify the application
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/6a937219-5d6d-4126-bdc6-284861652474)
