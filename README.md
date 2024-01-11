@@ -18,9 +18,17 @@ We verify the created ServiceBus in the list
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/3f35a6c7-310b-4c36-888e-f5c835b57229)
 
+We create a new queue
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/2dacef0c-853c-4346-a52a-ecd3303f1f3e)
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/15527825-0839-4627-8c38-e21a03ccfc8f)
+
 This is the queue we created
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/8d3552bc-876f-4330-8862-92e344c42aa6)
+
+
 
 This is the topic we created
 
