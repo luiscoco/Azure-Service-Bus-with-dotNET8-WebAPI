@@ -1,6 +1,12 @@
 # How to send and receive messages between .NET8 WebAPI and Azure ServiceBus
 
-## 1. appsettings.json
+## 1. Create in Azure Portal a ServiceBus
+
+
+
+## 2. Application configuration file (appsettings.json)
+
+We include the appsettings.json file the: ServiceBus ConnectionString, QueueName and TopicName:
 
 ```json
 {
@@ -21,7 +27,9 @@
 }
 ```
 
-## 2. Program.cs
+## 3. Configure the application Middleware (Program.cs)
+
+We bind the ServiceBus configuration in the Program.cs file:
 
 ```csharp
 using AzureServiceBus.Model;
@@ -56,7 +64,7 @@ app.MapControllers();
 app.Run();
 ```
 
-## 3. ServiceBusConfig.cs
+## 4. ServiceBus configuration Model (ServiceBusConfig.cs)
 
 ```csharp
 namespace AzureServiceBus.Model
@@ -72,7 +80,7 @@ namespace AzureServiceBus.Model
 }
 ```
 
-## 4. ServiceBusWebApiControllers.cs
+## 5. Create the application controller (ServiceBusWebApiControllers.cs)
 
 ```csharp
 using Microsoft.AspNetCore.Mvc;
