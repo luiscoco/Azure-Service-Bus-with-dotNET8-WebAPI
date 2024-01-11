@@ -231,3 +231,6 @@ namespace AzureServiceBus.Controllers
     }
 }
 ```
+
+## 6. Verify the application
+
