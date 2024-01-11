@@ -28,7 +28,11 @@ This is the queue we created
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/8d3552bc-876f-4330-8862-92e344c42aa6)
 
+We create a new topic
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/998f2622-a4f8-4659-ab2c-55fb2e2d4668)
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/a92e2e9f-71d5-489b-a747-3e0e8303a60f)
 
 This is the topic we created
 
