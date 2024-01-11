@@ -2,7 +2,21 @@
 
 ## 1. Create in Azure Portal a ServiceBus
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/5e1abf2c-2830-48b7-931b-1ac39a382321)
 
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/3f35a6c7-310b-4c36-888e-f5c835b57229)
+
+This is the queue we created
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/8d3552bc-876f-4330-8862-92e344c42aa6)
+
+This is the topic we created
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/c5062bfe-469a-46a4-904c-16c99beacac0)
+
+These are the two subscriptions
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/09a1cb2c-99c9-4f0f-b690-e9ec012dcf62)
 
 ## 2. Application configuration file (appsettings.json)
 
