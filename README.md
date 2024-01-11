@@ -6,6 +6,10 @@ We create a ServiceBus
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/36783668-77a2-4e40-9fa2-9f7a8a123303)
 
+We input the ServiceBus data
+
+![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/1b40746a-3f3e-44e8-b73f-4238467fd01b)
+
 
 ![image](https://github.com/luiscoco/Azure-Service-Bus-with-dotNET8-WebAPI/assets/32194879/5e1abf2c-2830-48b7-931b-1ac39a382321)
 
